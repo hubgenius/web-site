@@ -1,0 +1,76 @@
+.A
+{
+    height: 100%;
+    margin: auto;
+    text-align:  right;
+    
+}
+.h1{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: green;
+    color: yellow;
+}
+.nav{
+    /* background-color: aquamarine; */
+    /* justify-content: center;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+
+     */
+}
+/* @media (max-width:300px){
+    .nav{
+    background-color: rgb(221, 76, 18); */
+    /* justify-content: center; */
+    /* display: block; */
+    /* } */
+/* } */
+/* @media (min-width:301px){ */
+    /* .nav{ */
+        /* background-color: solid rgb(50, 26, 182); */
+        /* justify-content: center; */
+    
+    /* } */
+/* } */
+.form{
+    text-align: center;
+    background-image: url(https://www.asianpaints.com/content/dam/asian_paints/wall-coverings/wallpaper-close-shots/wallpaper-close-shot-asian-paints-FD25527.jpg);
+}
+
+.B table tr th{
+    border: 3px solid black;
+    margin: auto;
+    background-color: white;
+    height: 100%;
+    width: 500px;
+    text-align: revert;
+    justify-content: center;
+}
+.B tr th{
+    /* border: 3px solid black;
+    margin: auto;
+    background-color: white;
+    height: 100%;
+    width: 500px; */
+    border: 1px solid black;
+    margin: auto;
+    background-color: rgb(13, 230, 238);
+    height: 100%;
+    width: 500px;
+    text-align: revert;
+    justify-content: center;
+}
+@media(min-width:300px){
+    .nav{
+        display: block;
+    }
+}
+@media(min-width:0px)and (max-width:300px){
+    nav Menu{
+        /* display: block; */
+        background-color: violet;
+    }
+}
